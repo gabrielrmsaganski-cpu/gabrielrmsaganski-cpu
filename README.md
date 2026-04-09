@@ -19,6 +19,7 @@ An explainable memory operating system for AI agents with temporal reasoning,
 conflict handling, and retrieval transparency.
 
 GitHub: https://github.com/gabrielrmsaganski-cpu/cortexos
+Intro video: https://github.com/gabrielrmsaganski-cpu/cortexos/releases/download/v0.1.0/CortexOS-Intro-1080p.mp4
 
 ## Links
 
